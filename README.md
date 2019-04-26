@@ -1,2 +1,2 @@
 # eventsite
-svent site with reactJS
+sample site with reactJS/ MaterialUI/ React-reveal/ React-scroll/ React-slick
